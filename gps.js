@@ -38,6 +38,7 @@ console.log('\n');
 let Status = getCouse(StatusArray);
 
 //decleartion of Functions
+
 function hexToDec(num) {
     return parseInt(num, 16).toString(10);
 }
